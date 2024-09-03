@@ -1,6 +1,6 @@
- IP: 84.201.143.223;
- name_taski: https://efimov.zapto.org/;
- name_kittygram: https://efimovvlat.com/;
- login: vlat;
- password: vlat;
+IP: 84.201.143.223;
+name_taski: https://efimov.zapto.org/;
+name_kittygram: https://efimovvlat.com/;
+login: vlat;
+password: vlat;
  
